@@ -23,7 +23,7 @@ function Search() {
       />
       <button
         type="submit"
-        className="bg-blue-300 text-white font-bold py-2 px-4 rounded-lg"
+        className="bg-blue-300 text-white font-bold py-2 px-4 rounded-lg hover:bg-blue-500"
       >
         Search Now!
       </button>
